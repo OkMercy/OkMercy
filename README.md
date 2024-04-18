@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OkMercy
-- 👀 I’m interested in Front-end Development
+- 👀 I recently developed a passion for front-end development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any front-end projects
 - 📫 Send me a mail: mercyokuru23@gmail.com
